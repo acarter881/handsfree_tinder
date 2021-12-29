@@ -7,3 +7,5 @@ Making Tinder's Desktop Application Hands-Free
 - You'll need a basic microphone. The microphone I used is from the Astro A40s.
 - The speech-to-text work comes from [Google's Speech-To-Text API](https://cloud.google.com/speech-to-text)
 
+## Video demonstration
+[![Video](http://img.youtube.com/vi/SZUsfSjxaq0/0.jpg)](https://www.youtube.com/watch?v=SZUsfSjxaq0 "I Made Tinder Hands-Free")
